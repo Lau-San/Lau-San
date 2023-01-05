@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm just a girl that likes to tinker with software and make stuff.
 
-My brad new Mastodon: <a rel="me" href="https://tech.lgbt/@LauSan">Mastodon</a>
+My brad new Mastodon: <a rel="me" href="https://tech.lgbt/@LauSan">@LauSan@tech.lgbt</a>
