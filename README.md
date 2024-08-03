@@ -42,7 +42,7 @@
 <!-- TABLE 2 -->
 <table><tr><td valign="top" align=center width="50%">
 
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=github_dark&hide_border=true&card_width=550&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=github_dark&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td valign="top" align=center width="50%">
