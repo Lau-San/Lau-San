@@ -1,14 +1,61 @@
+<!--
+<h1>Hi there 👋</h1>
+<p>I'm just a girl that likes to tinker with software and make stuff.</p>
+-->
+
+
 <div align=center>
-  <h1>Hi there 👋</h1>
-  <p>I'm just a girl that likes to tinker with software and make stuff.</p>
-  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lau-San&theme=tokyonight&hide_border=true&border_radius=8&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  <br>
-  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lau-San&column=-1&margin-w=15&theme=juicyfresh&no-frame=true&no-bg=true&title=-Followers,-Stars,-Reviews"></a>
 </div>
 
+<!-- TABLE 1 -->
+<table width="960px"><tr><td valign="top" width="50%">
+
+## <div align=center>About Me</div>
+
+
+![Static Badge](https://img.shields.io/badge/Main_OS-Linux-blue?style=for-the-badge&labelColor=blue&color=gray)
+![Static Badge](https://img.shields.io/badge/Editor-Neovim-blue?style=for-the-badge&labelColor=blue&color=gray)
+
+![Static Badge](https://img.shields.io/badge/Current_Project-Portfolio%20Website-blue?style=for-the-badge&labelColor=orange&color=gray)
+![Static Badge](https://img.shields.io/badge/Currently_Learning-Animation-blue?style=for-the-badge&labelColor=orange&color=gray)
+
+### <div align=center>Favorites</div>
+
+![Static Badge](https://img.shields.io/badge/Music_Genres-EDM,_Metal-blue?style=for-the-badge&labelColor=purple&color=gray)
+![Static Badge](https://img.shields.io/badge/Artists-Billie_Eilish,_Caravan_Palace-blue?style=for-the-badge&labelColor=purple&color=gray)
+![Static Badge](https://img.shields.io/badge/Games-Osu!,_Hollow_Knight-blue?style=for-the-badge&labelColor=purple&color=gray)
 
 
 
+</td><td valign="top" width="50%" align=center>
+
+## Stats
+
+[![](https://streak-stats.demolab.com?user=Lau-San&theme=github-dark-blue&hide_border=true&card_width=480&exclude_days=Sun%2CSat)]([https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats))
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api?username=Lau-San&theme=github_dark&show_icons=true&hide_border=true&card_width=550&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</td></tr></table>
+<!-- END TABLE 1 -->
+
+<!-- TABLE 2 -->
+<table><tr><td valign="top" align=center width="50%">
+
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=github_dark&hide_border=true&card_width=550&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td><td valign="top" align=center width="50%">
+
+## Skills
+[![](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,godot)](https://skillicons.dev/)
+
+## Dev Tools
+[![](https://skillicons.dev/icons?i=neovim,vscode,git,github,postman,vite)](https://skillicons.dev/)
+
+## Productivity Tools
+[![](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
+
+</td></tr></table>
+<!-- END TABLE 2 -->
 
