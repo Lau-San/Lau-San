@@ -32,8 +32,8 @@
 
 ## Stats
 
-[![](https://streak-stats.demolab.com?user=Lau-San&theme=github-dark-blue&hide_border=true&card_width=480&exclude_days=Sun%2CSat)]([https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats))
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api?username=Lau-San&theme=github_dark&show_icons=true&hide_border=true&card_width=550&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://streak-stats.demolab.com?user=Lau-San&theme=shadow-blue&hide_border=true&card_width=480&exclude_days=Sun%2CSat)]([https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats))
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api?username=Lau-San&theme=shadow_blue&show_icons=true&hide_border=true&card_width=550&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </td></tr></table>
@@ -41,11 +41,6 @@
 
 <!-- TABLE 2 -->
 <table><tr><td valign="top" align=center width="50%">
-
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=github_dark&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td><td valign="top" align=center width="50%">
 
 ## Skills
 [![](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,godot)](https://skillicons.dev/)
@@ -55,6 +50,14 @@
 
 ## Productivity Tools
 [![](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
+
+</td><td valign="top" align=center width="50%">
+
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=shadow_blue&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=shadow_blue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 </td></tr></table>
 <!-- END TABLE 2 -->
