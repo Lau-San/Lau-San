@@ -32,8 +32,14 @@
 
 ## Stats
 
-[![](https://streak-stats.demolab.com?user=Lau-San&theme=shadow-blue&hide_border=true&card_width=480&exclude_days=Sun%2CSat)]([https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats))
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api?username=Lau-San&theme=shadow_blue&show_icons=true&hide_border=true&card_width=550&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://streak-stats.demolab.com?user=Lau-San&theme=algolia&background=00000000&hide_border=true&card_width=480&exclude_days=Sun%2CSat)]([https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats))
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api?username=Lau-San&theme=algolia&bg_color=00000000&show_icons=true&hide_border=true&card_width=550&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Lau-San&theme=algolia&background=00000000&hide_border=true&card_width=480&exclude_days=Sun%2CSat">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Lau-San&theme=catppuccin-latte&background=00000000&hide_border=true&card_width=480&exclude_days=Sun%2CSat">
+  <img src="https://streak-stats.demolab.com?user=Lau-San&theme=algolia&background=00000000&hide_border=true&card_width=480&exclude_days=Sun%2CSat">
+</picture>
 
 
 </td></tr></table>
@@ -53,8 +59,8 @@
 
 </td><td valign="top" align=center width="50%">
 
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=shadow_blue&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=shadow_blue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>
 <!-- END TABLE 2 -->
