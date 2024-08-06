@@ -5,8 +5,14 @@
 
 
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lau-San&column=-1&margin-w=15&theme=juicyfresh&no-frame=true&no-bg=true&title=-Followers,-Stars,-Reviews"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Lau-San&column=-1&margin-w=15&theme=juicyfresh&no-frame=true&no-bg=true&title=-Followers,-Stars,-Reviews">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Lau-San&column=-1&margin-w=15&no-frame=true&no-bg=true&title=-Followers,-Stars,-Reviews">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lau-San&column=-1&margin-w=15&theme=juicyfresh&no-frame=true&no-bg=true&title=-Followers,-Stars,-Reviews">
+  </picture>
 </div>
+
+
 
 <!-- TABLE 1 -->
 <table width="960px"><tr><td valign="top" width="50%">
