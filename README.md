@@ -59,7 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+hyprlang   49 mins         ███████████░░░░░░░░░░░░░░   43.37 %
+sh         46 mins         ██████████░░░░░░░░░░░░░░░   40.23 %
+Cheetah    17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
