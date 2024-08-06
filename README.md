@@ -56,17 +56,6 @@
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=shadow_blue&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=shadow_blue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-```txt
-hyprlang   49 mins         ███████████░░░░░░░░░░░░░░   43.37 %
-sh         46 mins         ██████████░░░░░░░░░░░░░░░   40.23 %
-Cheetah    17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-```
-
-<!--END_SECTION:waka-->
-
 </td></tr></table>
 <!-- END TABLE 2 -->
 
