@@ -56,8 +56,8 @@
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=shadow_blue&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=shadow_blue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </td></tr></table>
 <!-- END TABLE 2 -->
