@@ -57,6 +57,11 @@
 [![](https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=shadow_blue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </td></tr></table>
