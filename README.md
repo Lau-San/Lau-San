@@ -46,15 +46,15 @@
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,godot)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,godot)](https://skillicons.dev/)
 
 ## Dev Tools
 
-[![](https://skillicons.dev/icons?i=neovim,vscode,git,github,postman,vite)](https://skillicons.dev/)
+[![Dev Tools](https://skillicons.dev/icons?i=neovim,vscode,git,github,postman,vite)](https://skillicons.dev/)
 
 ## Productivity Tools
 
-[![](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
+[![Productivity Tools](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
 
 </td><td valign="top" align=center width="50%">
 
