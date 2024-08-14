@@ -73,9 +73,9 @@
   <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true">
-  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
+  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
 </picture>
 
 </td></tr></table>
