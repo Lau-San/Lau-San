@@ -65,9 +65,9 @@
 </td><td valign="top" align=center width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
-  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&langs_cont=10&hide=norg">
+  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg">
 </picture>
 
 </td></tr></table>
