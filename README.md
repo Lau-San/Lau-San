@@ -57,9 +57,9 @@
 [![Productivity Tools](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTesting">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=vue&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTesting">
-  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTesting">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=vue&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
+  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
 </picture>
 
 </td><td valign="top" align=center width="50%">
