@@ -56,17 +56,18 @@
 
 [![Productivity Tools](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev/)
 
-</td><td valign="top" align=center width="50%">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=vue&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests">
   <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats,2DShootingGame,Some2DTests">
 </picture>
+
+</td><td valign="top" align=center width="50%">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
-  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang,c#">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&hide=kdl,hyprlang,c#">
+  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&hide=kdl,hyprlang,c#">
 </picture>
 
 </td></tr></table>
