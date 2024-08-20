@@ -58,17 +58,21 @@
 
 </td><td valign="top" align=center width="50%">
 
+<!-- Most Used Languages -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=vue&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
   <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/top-langs?username=Lau-San&theme=algolia&bg_color=00000000&hide_border=true&card_width=550&layout=compact&exclude_repo=github-readme-stats">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&langs_cont=10&hide=norg">
-  <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg">
-</picture>
+<!-- WakaTime -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg,markdowmagen">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=vue&bg_color=00000000&hide_border=true&langs_cont=10&hide=norg">
+        <img src="https://github-readme-stats-kappa-five-60.vercel.app/api/wakatime?username=lau_san&theme=algolia&bg_color=00000000&hide_border=true&langs_count=10&hide=norg">
+    </picture>
+</a>
 
 </td></tr></table>
 <!-- END TABLE 2 -->
